@@ -17,4 +17,4 @@ cd IPlocation
 <pre>
 python IPaddress.py
 </pre>
-Поддержка: 👉 https://hablonly.netlify.app 👈
+Поддержите: 👉 https://hablonly.netlify.app 👈
