@@ -33,7 +33,7 @@ def get_info_by_ip(ip='127.0.0.1'):
 def main():
     preview_text = Figlet(font='slant')
     print(preview_text.renderText('IP INFO'))
-    ip = input('Please enter a target IP: ')
+    ip = input('Пожалуйста, введите целевой IP: ')
     
     get_info_by_ip(ip=ip)
     
