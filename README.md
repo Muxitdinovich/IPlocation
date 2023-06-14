@@ -10,6 +10,8 @@ pip install pyfiglet
 pip install requests
 
 git clone https://github.com/Muxitdinovich/IPlocation.git
+
+cd IPlocation
 </pre>
 # Запустить
 <pre>
