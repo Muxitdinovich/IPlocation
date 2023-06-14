@@ -13,6 +13,6 @@ git clone https://github.com/Muxitdinovich/IPlocation.git
 </pre>
 # Запустить
 <pre>
-python IPadress.py
+python IPadrres.py
 </pre>
 # Поддержка: 👉 https://hablonly.netlify.app 👈
